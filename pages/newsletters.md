@@ -7,6 +7,11 @@ permalink: /newsletters
 
 Newsletter | Date
 --- | ---
+
+[Silurian Times No.29 (2021)](files/SilurianTimes29.pdf) | 2018-03-19
+[Silurian Times No.28 (2020)](files/SilurianTimes28.pdf) | 2018-03-19
+[Silurian Times No.27 (2019)](files/SilurianTimes27.pdf) | 2018-03-19
+[Silurian Times No.26 (2018)](files/SilurianTimes26.pdf) | 2018-03-19
 [Silurian Times No.25 (2017)](files/SilurianTimes25.pdf) | 2018-03-19
 [Silurian Times No.24 (2016)](files/SilurianTimes24.pdf) | 2017-05-31
 [Silurian Times No.23 (2015)](files/SilurianTimes23.pdf) | 2016-04-07
