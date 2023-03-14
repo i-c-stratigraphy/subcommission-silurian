@@ -5,11 +5,9 @@ permalink: /newsletters
 ---
 # Newsletters
 
-<!-- 
 * [Silurian Times No.29 - 2021](files/SilurianTimes29.pdf)
 * [Silurian Times No.28 - 2020](files/SilurianTimes28.pdf)
 * [Silurian Times No.27 - 2019](files/SilurianTimes27.pdf)
--->
 * [Silurian Times No.26 - 2018](files/SilurianTimes26.pdf)
 * [Silurian Times No.25 - 2017](files/SilurianTimes25.pdf)
 * [Silurian Times No.24 - 2016](files/SilurianTimes24.pdf)
