@@ -82,7 +82,7 @@ Chinese Academy of Sciences, Nanjing, China
 
 
 
-# Executive (-2023)
+# Executive (2020-2023)
 
 **Petr Štorch, Chair**  
 Department of Palaeobiology and Stratigraphy  
@@ -134,7 +134,7 @@ Tel.: 319-335-0704
 Email: [bradley-cramer@uiowa.edu](bradley-cramer@uiowa.edu)  
 
 
-**Bing Huang, Webperson**  
+**Huang Bing, Webperson**  
 Nanjing Institute of Geology and Paleontology
 
 Chinese Academy of Sciences
