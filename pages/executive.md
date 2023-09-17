@@ -3,12 +3,84 @@ layout: page
 title: "Executive"
 permalink: /executive
 ---
-# New ISSS subcommission elected for 2024-2028
+# Subcommission elected for 2024-2028
+We are pleased to introduce new officers and titular members of the International Subcommission on Silurian Stratigraphy elected for 2024-2028.
+Elected officers
+
+**Carlo Corradini, Chair** 
+Dipartimento di Matematica e Geoscienze
+Università di Trieste, Italy 
+
+**Thijs Vandenbroucke, Vice-Chair**
+Department of Geology
+Ghent University, Belgium
+
+**Secretary, not yet appointed**
+
+## Voting Members
+
+**Alyssa M. Bancroft**
+Indiana Geological and Water Survey
+Indiana University, USA
+
+**Huang Bing, Webperson**
+Nanjing Institute of Geology and Paleontology
+Chinese Academy of Sciences, Nanjing, China
+
+**Carlton E. Brett**
+Department of Geology
+University of Cincinnati, USA
+
+**Bradley D. Cramer**
+Department of Earth and Environmental Sciences
+University of Iowa, Iowa City, USA
+
+**Annalisa Ferretti**
+Dipartimento di Scienze della Terra
+Universitá di Modena e Reggio Emilia, Italy
+
+**Juan Carlos Gutiérrez-Marco**
+Instituto de Geociencias (CSIC, UCM) & área de Paleontología GEODESPAL, Facultad CC. Geológicas UCM, Madrid, Spain
+
+**Emilia Jarochowska**
+Department of Earth Sciences
+Utrecht University, Netherlands
+
+**Anna Kozłowska**
+Institut of Paleobiology
+Polish Academy of Sciences, Warszawa, Poland
+
+**David K. Loydell**
+School of Earth and Environmental Sciences
+University of Portsmouth, United Kingdom
+
+**Tõnu Meidla**
+Institute of Ecology and Earth Sciences
+University of Tartu, Estonia
+
+**Michael J. Melchin**
+Department of Earth Sciences
+St. Francis Xavier University, Antigonish, Canada 
+
+**David C. Ray**
+School of Geography, Earth and Environmental Sciences
+University of Birmingham, United Kingdom
+
+**Valeri Sachanski**
+The University of Mining and Geology „St. Ivan Rilski“ & Department of Geology and Geo-Information, Geological Institute, Bulgarian Academy of Sciences
+Sofia, Bulgaria
+
+**Ladislav Slavík**
+Department of Paleobiology and Paleoecology
+Institute of Geology, Czech Academy of Sciences, Prague, Czech Republic
+
+**Wang Yi**
+Nanjing Institute of Geology and Paleontology
+Chinese Academy of Sciences, Nanjing, China
 
 
 
-
-# Executive
+# Executive (-2023)
 
 **Petr Štorch, Chair**  
 Department of Palaeobiology and Stratigraphy  
@@ -35,7 +107,6 @@ Email: [daveray01@yahoo.com](daveray01@yahoo.com)
 
 
 ## Voting Members
-
 
 **Alyssa M. Bancroft**  
 Iowa Geological Survey
