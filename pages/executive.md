@@ -101,10 +101,8 @@ Email.: [corradin@unica.it](corradin@unica.it)
 
 
 **David C. Ray, Secretary**  
-Neftex Exploration Insights (Landmark-Halliburton)
-97 Milton Park, Abingdon, Oxfordshire /
-65 Hillview Crescent, Banbury, OX16 1BW, United Kingdom
-Tel.: 07792638177
+School of Geography, Earth and Environmental Sciences, University of Birmingham, United Kingdom. 
+Tel.: 07792638177. 
 Email: [daveray01@yahoo.com](daveray01@yahoo.com) 
 
 
