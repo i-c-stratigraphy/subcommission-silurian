@@ -5,7 +5,7 @@ permalink: /specialists
 ---
 # Specialists
 
-## List of corresponding members and specialists
+## List of corresponding members
 
 
 Member | Email
