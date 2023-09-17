@@ -17,8 +17,9 @@ James E. Barrick | <jim.barrick@ttu.edu>
 Frank R. Brunton | <frank.brunton@ontario.ca>
 Carole J. Burrow | <carole.burrow@gmail.com>
 Xu Chen | <xuchen@nigpas.ac.cn>
+Zhongyang Chen | <zychen@nigpas.ac.cn>
 Maria G. Corriga | <corrigamariagiovanna@gmail.com>
-G. Susana de la Puente | <sudelapuente@gmail.com or susana.delapuente@comahue-conicet.gob.ar>
+G. Susana de la Puente | <sudelapuente@gmail.com>
 André Desrochers | <andre.desrochers@uottawa.ca>
 Rein Einasto | <reinasto34@gmail.com>
 Annalisa Ferretti | <ferretti@unimore.it>
@@ -34,7 +35,7 @@ Dimitri Kaljo | <dimitri.kaljo@taltech.ee>
 Stephen Kershaw | <Stephen.kershaw@brunel.ac.uk>
 Tarmo Kiipli | <tarmo.kiipli@taltech.ee>
 Philippe Legrand | <legrandblain@wanadoo.fr>
-Qi-jian Li | <qijianli@hotmail.com or qjli@nigpas.ac.cn>
+Qi-jian Li | <qijianli@hotmail.com>
 Steve LoDuca | <sloduca@emich.edu>
 Jörg Maletz | <yorge@zedat.fu-berlin.de>
 Peep Männik | <peep.mannik@ttu.ee>
@@ -52,8 +53,8 @@ José Manuel Piçarra d´Almeida | <jose.picarra@lneg.pt>
 Leonid Popov | <lepbarry@yahoo.co.uk>
 Sigitas Radzevičius | <sigitas.radzevicius@gf.vu.lt>
 Jiayu Rong | <jyrong@nigpas.ac.cn>
-Mike Rosenbaum | <m.rosenbaum@nhm.ac.uk or mike.rosenbaum@ntu.ac.uk>
-Valeri Sachanski | <valeri.sachanski@mgu.bg or v_sachanski@geology.bas.bg>
+Mike Rosenbaum | <m.rosenbaum@nhm.ac.uk>
+Valeri Sachanski | <valeri.sachanski@mgu.bg>
 Thomas Servais | <thomas.servais@univ-lille.fr>
 David Siveter | <djs@leicester.ac.uk>
 Derek Siveter | <derek.siveter@oum.ox.ac.uk>
@@ -61,7 +62,7 @@ Ladislav Slavík | <slavik@gli.cas.cz>
 Andrej Spiridonov | <andrej.spiridonov@gf.vu.lt>
 Alan Thomas | <a.t.thomas@bham.ac.uk>
 Petra Tonarová | <petra.tonarova@geology.cz>
-Susan Turner | <sue.turner@qm.qld.gov.au or paleodeadfish@yahoo.com>
+Susan Turner | <sue.turner@qm.qld.gov.au>
 Jacques Verniers | <jacques.verniers@ugent.be>
 Olev Vinn | <olev.vinn@ut.ee>
 Guangxu Wang | <gxwang@nigpas.ac.cn>
@@ -70,4 +71,4 @@ Wenwei Yuan | <wwyuan@nigpas.ac.cn>
 Renbin Zhan | <rbzhan@nigpas.ac.cn>
 Yuandong Zhang | <ydzhang@nigpas.ac.cn>
 Wenjin Zhao | <zhaowenjin@ivpp.ac.cn>
-Zhongyang Chen | <zychen@nigpas.ac.cn>
+
