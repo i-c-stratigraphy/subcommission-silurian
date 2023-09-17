@@ -3,6 +3,11 @@ layout: page
 title: "Executive"
 permalink: /executive
 ---
+# New ISSS subcommission elected for 2024-2028
+
+
+
+
 # Executive
 
 **Petr Štorch, Chair**  
@@ -56,8 +61,9 @@ Tel.: 319-335-0704
 Email: [bradley-cramer@uiowa.edu](bradley-cramer@uiowa.edu)  
 
 
-**Bing Huang**  Webperson
+**Bing Huang, Webperson**  
 Nanjing Institute of Geology and Paleontology
+
 Chinese Academy of Sciences
 39 East Beijing Road, Nanjing, 210008, China
 Tel.: +86-2583282189
