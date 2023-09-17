@@ -12,76 +12,62 @@ table { font-size:smaller; }
 
 Meeting | Posting Date
 --- | ---
-[5th International Symposium on the Silurian System and Annual Meeting of IGCP 591 Project](#4) | 2014-08-15
-[STRATI 2015 - 2nd International Congress on Stratigraphy to be held in Graz, Austria, 19-23 July 2015](#3) | 2014-02-14
-[4th Intermational Palaeontological Congress in Argentina in 2014](#2) | 2013-10-23
-[1st International Congress on Stratigraphy (STRATI 2013) in Lisbon in July of 2013](#1)  | 2011-01-01 
+[The 5th International Conodont Symposium (ICOS 5), Wuhan, China(#4) | 
+[19th International Symposium on Ostracoda, Lyon, France](#3) | 
+[4th International Congress on Stratigraphy STRATI 2023, Lille, France](#2) | 
+[New stratigraphic insights into the Silurian story, Lille, France (Subcommission Session SC13)](#1)  | 
 
 
 <a id="4"></a>
-## 5th International Symposium on the Silurian System and Annual Meeting of IGCP 591 Project
-Quebec City, Canada
+## The 5th International Conodont Symposium (ICOS 5), Wuhan, China
 
-July 8 – 11, 2015
-
-The aims of the joint Silurian Subcommission/IGCP591 meeting are to investigate the dynamic and important Lower and Middle Paleozoic interval in the history and evolution of life and our planet and to improve our understanding of the definition, correlation and resolution of Silurian time. Contributions on relevant topics (ocean biogeochemistry, sea-level change, biodiversity changes, paleoecology…) are welcome.
-
-Important Dates:
-
-March 15, 2015: Registration open, circular updated
-
-May 15, 2015: Deadline for registration, abstracts, and payments
-
-July 3-7, 2015: Pre-conference excursion in the Gaspe Peninsula
-
-July 8-11, 2015: Scientific sessions at the INRS-ETE Complex, Quebec City
-
-July 13-20, 2015: Post-conference excursion on Anticosti Island
-
-August 31, 2015: Deadline for papers for a thematic issue in CJES
-
-Schedule:
-
-July 3-7, 2015 – Pre-conference excursion to the Ordovician and Silurian of the Gaspé Peninsula. 
-
-July 7, 2015 – Registration and icebreaker starts at 18:00 on the INRS-ETE campus. 
-
-July 8, 2015 – Scientific sessions and poster exhibitions between 09:00 and 17:00 at the INRS-ETE. 
-
-July 9, 2015 – Mid-conference excursion to the classical Ordovician localities near Québec City. 
-
-July 10, 2015 – Scientific sessions and poster exhibitions between 09:00 and 17:00 at the INRS-ETE. 
-
-July 11, 2015 – Scientific sessions and poster exhibitions between 09:00 and 15:00 at the INRS-ETE 
-
-July 13-20, 2015 – Post-conference excursion to the Ordovician and Silurian of the Anticosti Island.
-
- 
-The conference website is <http://igcp591.org/2015/>
-
-Click [HERE](http://silurian.stratigraphy.org/Meetings/Quebec2015_2ndCircular.pdf) to download the second circular.
+Dates: June 24th to 27th 2022.
+Venue: Hybrid meeting
+Website: The ICOS 5 Abstract Book and Program, and partial oral presentation video records approved by the speakers can be viewed at the following link:
+https://dxy.cug.edu.cn/dxyen/THE_PANDER_SOCIETY/News_and_Events.htm
+Description: The 5th International Conodont Symposium (ICOS 5), was a hybrid meeting held online and on the campus of China University of Geosciences (CUG), Wuhan, China (June 24th to 27th 2022). Note the meeting was postponed in 2021 due to the COVID-19 pandemic. ICOS 5 was organized by State Key Laboratory of Biogeology and Environmental Geology (CUG) and School of Earth Sciences (CUG). The symposium contained several Silurian related presentations, three scientific sessions and a business meeting of the Pander Society.
+Organisers: Professor Xulong Lai, Vice President of China University of Geosciences (Wuhan).
 
 
 ---
 <a id="3"></a>
-## STRATI 2015 - 2nd International Congress on Stratigraphy to be held in Graz, Austria, 19-23 July 2015
+## 19th International Symposium on Ostracoda, Lyon, France
 
-STRATI 2015 - 2nd International Congress on Stratigraphy to be held in Graz, Austria, 19-23 July 2015.
-
-Click [HERE](http://silurian.stratigraphy.org/Meetings/strati2015_2ndCircular.pdf) to download the second circular.
+Dates: July 18th to 22nd 2022
+Venue: Lyon, France
+Website: The 19th International Symposium on Ostracoda Abstract Book, Circulars and Field Trip Guides can be viewed at the following link: http://iso2022.univ-lyon1.fr/en
+Description: The French Ostracodologists’ Group and the International Research Group on Ostracoda (IRGO) held the 19th International Symposium on Ostracoda in Lyon at the University Claude Bernard Lyon 1 from July 18th to 22nd 2022. The symposium consisted of workshops, field excursions, an IRGO business meeting, and over 100 presentations (oral and poster), a few of which related to the Silurian:
+• Perrier, V., Perrichon, G., Nesme, F., Lorenzo, S. and Gutiérrez-Marco, J.C. 2022. Ecological diversification of early planktonic ostracods in the upper Silurian.
+• Rinkevičiūtė, S., Spiridonov, A. and Meidla, T. 2022. Ultra-high resolution ostracod data as a tool for a deeper understanding of the Mulde/ lundgreni event (lower Silurian).
+• Siveter, D., Perrier, V. and Williams, M. 2022. Silurian myodocopes display adaptations for a nektobenthic lifestyle: the paleobiological evidence.
+Organising Committee: Vincent Perrier, Marie-Béatrice Forel and Sylvie Crasquin
 
 
 ---
 <a id="2"></a>
-## 4th Intermational Palaeontological Congress in Argentina in 2014
+## 4th International Congress on Stratigraphy STRATI 2023, Lille, France
 
-The 4th Intermational Palaeontological Congress (IPC4) will be held in Mendoza, Argentina from September 28 to October 3, 2014. Its formal theme is "The history of life: A view from the Southern Hemisphere". 
-
-More information can be found at the congress website: <http://www.ipc4mendoza2014.org.ar/>
-
+Dates: July 11th to 13th 2023
+Venue: Lille, France. The indoor sessions with keynote talks and regular lectures (partly scheduled online) will take place in the new Congress Centre of Lille University ‘Lilliad’ on the Campus of the Cité Scientifique (Science Campus) at Villeneuve d’Ascq (15 minutes by metro from Lille city centre). In addition, several pre- and post-conference excursions and one-day field trips are scheduled to take place before and after the indoor meeting.
+Website: https://strati2023.sciencesconf.org/
+Description: Following the 1st congress in Lisbon (Portugal) in 2013, and additional congresses organized in Graz (Austria) in 2015 and Milan (Italy) in 2019, the 4th International Congress on Stratigraphy STRATI 2023 will be held in Lille, France, 11th to13th July 2023.
+General scientific themes will be mostly organized as plenary sessions, but parallel sessions will also be scheduled, as well as poster sessions. The following scientific sessions have been proposed covering a wide range of stratigraphic topics.
 
 ---
 <a id="1"></a>
-## 1st International Congress on Stratigraphy (STRATI 2013) in Lisbon in July of 2013
 
-The 1st International Congress on Stratigraphy (STRATI 2013), sponsored by ICS, will be held in Lisbon, Portugal, July 1-7, 2013.  First circular available at <http://www.strati2013.org/>
+## New stratigraphic insights into the Silurian story, Lille, France (Subcommission Session SC13)
+
+Dates: July 11th to 13th 2023
+Venue: Lille, France. The indoor sessions will take place in the new Congress Centre of Lille University ‘Lilliad’ on the Campus of the Cité Scientifique (Science Campus) at Villeneuve d’Ascq (15 minutes by metro from Lille city centre).
+Website: https://strati2023.sciencesconf.org/
+Description: This will be the first ISSS business meeting, after several years of silence. The details of the preliminary program are as follows:
+• Tanya Koren‘ Award ceremony.
+• Detailed information about the upcoming ISSS online ballots on new base Aeronian and base Telychian GSSPs.
+• Other inadequate GSSPs of Silurian stages and series in need of replacement – Homerian Stage and Wenlock Series/Sheinwoodian Stage. Discussion and possible formation of working groups.
+• Proposed division of Přídolí Series in Jarovian and Radotinian stages. Discussion.
+• Potential application of Standard Auxilliary Boundary Stratotypes in the Silurian System. This category was formally recognized by the ICS in October 2022. Discussion.
+• Next field meeting of the Silurian Subcommission after covid pause. Discussion about date and place.
+• New executive of Silurian Subcommission – new chair, vice-chair and secretary. Discussion around proposals, upcoming online election, and time-line.
+In addition, please, send Petr Štorch (storch@gli.cas.cz) your comments, suggestions, and proposals regarding this business meeting and, in turn, stay tuned to receive further details in due time. For further details see CHAIRMAN’S CORNER herein (pages 4-6).
+Organisers: Petr Štorch, Carlo Corradini and David Ray
