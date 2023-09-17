@@ -21,24 +21,24 @@ Tel.: +39-070-6757744
 Email.: [corradin@unica.it](corradin@unica.it)  
 
 
-**Zhan Renbin, Secretary**  
-Nanjing Institute of geology and Paleontology  
-Chinese Academy of Sciences  
-39  East Beijing Road, Nanjing, 210008, China  
-Tel.: +86-2583282132, 2583282196  
-Email: [rbzhan@nigpas.ac.cn](rbzhan@nigpas.ac.cn)  
+**David C. Ray, Secretary**  
+Neftex Exploration Insights (Landmark-Halliburton)
+97 Milton Park, Abingdon, Oxfordshire /
+65 Hillview Crescent, Banbury, OX16 1BW, United Kingdom
+Tel.: 07792638177
+Email: [daveray01@yahoo.com](daveray01@yahoo.com) 
 
 
 ## Voting Members
 
-**Anna I. Antoshkina**  
-Institute of Geology, Komi Science Centre, Ural Division  
-Russian Academy of Sciences  
-54 Pervomaiskaya str.  
-167 982, Syktyvkar, Komi Republic, Russia  
-Tel.: 8212-425-353  
-Email: [Antoshkina@geo.komisc.ru](Antoshkina@geo.komisc.ru)  
-	
+
+**Alyssa M. Bancroft**  
+Iowa Geological Survey
+IIHR-Hydroscience and Engineering, University of Iowa
+123 North Capitol Street, 300 Trowbridge Hall, Iowa City 52252, Iowa, USA
+Tel.: +1(231)8810533
+Email: [alyssa-bancroft@uiowa.edu](alyssa-bancroft@uiowa.edu) 
+
 
 **Carlton E. Brett**  
 Department of Geology  
@@ -54,22 +54,14 @@ University of Iowa
 Iowa City, 52242 Iowa, USA  
 Tel.: 319-335-0704  
 Email: [bradley-cramer@uiowa.edu](bradley-cramer@uiowa.edu)  
- 
-
-**David Holloway**  
-Museum Victoria  
-P.O.Box 666E, Melbourne,  
-Victoria 3001, Australia  
-Tel.: +61-3-9270-5041  
-Email: [dhollow@museum.vic.gov.au](dhollow@museum.vic.gov.au)
 
 
-**Jin Jisuo**  
-Department of Earth Sciences  
-University of Western Ontario  
-1151 Richmond Street N., London, Ontario N6A 5B7, Canada  
-Tel.: 519-661-2111  
-Email: [jjin@uwo.ca](jjin@uwo.ca)  
+**Bing Huang**  Webperson
+Nanjing Institute of Geology and Paleontology
+Chinese Academy of Sciences
+39 East Beijing Road, Nanjing, 210008, China
+Tel.: +86-2583282189
+Email: [bhuang@nigpas.ac.cn](bhuang@nigpas.ac.cn)  
 	
 
 **Anna Kozłowska**  
@@ -78,13 +70,6 @@ Polish Academy of Sciences
 51/55 Twarda, 00-818, Warszawa, Poland  
 Tel.: +48-22-6978872  
 Email: [akd@twarda.pan.pl](akd@twarda.pan.pl)  
-
-
-**Jirí Kríž**  
-Department of Regional Geology of Sedimentary Formations  
-Czech Geological Survey  
-Klárov 3, Praha 1, CZ 118 21, Czech Republic  
-Email: [jiri.kriz@geology.cz](jiri.kriz@geology.cz)  
 	
 
 **David K. Loydell**  
@@ -95,12 +80,12 @@ Tel.: 023-92-842-698
 Email: [david.loydell@port.ac.uk](david.loydell@port.ac.uk)  
 
  
-**Peep Männik**  
-Institute of Geology  
-Tallinn University of Technology  
-Ehitajate tee 5, Tallinn 19086, Estonia  
-Tel.: +372-6-454-189  
-Email: [mannik@gi.ee](mannik@gi.ee)  
+**Tõnu Meidla**  
+Institute of Ecology and Earth Sciences
+University of Tartu
+14A Ravila Street, Tartu, 50411 Estonia
+Tel: +372-7375895
+Email: [tonu.meidla@ut.ee](tonu.meidla@ut.ee)  
 	
 
 **Michael J. Melchin**  
@@ -117,14 +102,6 @@ University of Erlangen-Nürnberg
 Loewenichstrasse 28, 91054 Erlangen, Germany  
 Tel.: +49-09131-85-26957  
 Email: [axel.munnecke@gzn.uni-erlangen.de](axel.munnecke@gzn.uni-erlangen.de)  
- 
-
-**Silvio H. Peralta**  
-Instituto de Geología, CONICET  
-Universidad Nacional San Juan  
-Avda. Ignacio de la Roza y calle Meglioli, 5400, Rivadavia, San Juan, Argentina  
-Tel.: 0264-4265103  
-Email: [speralta@unsj-cuim.edu.ar](speralta@unsj-cuim.edu.ar)  
  
 
 **Thijs Vandenbroucke**  
