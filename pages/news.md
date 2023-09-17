@@ -5,20 +5,20 @@ permalink: /news
 ---
 # News
 
-### Obituary - Professor ZHANG Wentang (1925-2013) - 2013-10-23
+### Obituary - Professor Alain Blieck (1949-2022)
 
-We are saddened to announce that Prof. Zhang Wentang, a well-known palaeontologist and geologist, and a research professor at the Nanjing Institute of Geology and Palaeontology (NIGP), died in Nanjing on October 20, 2013 at 5:30PM. Prof. Zhang enjoyed a healthy old age until he passed away peacefully during a nap after lunch.
+Our esteemed colleague and friend, Alain Robert Maurice Blieck-Cazeau of Haubourdin, former CNRS senior scientist, and professor emeritus of the Université des Sciences et Technologies de Lille, Campus de Villeneuve d’Ascq, succumbed to COVID-19 in early February.
 
-Prof. Zhang was born in Henan Province on January 10, 1925. He graduated from the Geology Department of Peking University in July 1948, and started his career as a stratigrapher and palaeontologist in the Institute of Geology of the Central Institution of Kuomintang (KMT) government. He has been a research scientist at NIGP since the establishment of NIGP in 1951, and he dedicated more than 60 years of his career to working on the Cambrian stratigraphy, trilobites and other related fields. He was a titular member of the International Subcommission on Cambrian System (ISCS) for many years, and was a member of the International Commission on Zoological Nomenclature based in London. He was also one of the editors of the revised trilobite volumes of the Treatise, responsible for the revision of several trilobite superfamilies.
+Alain, a true northern Frenchman with Dutch/Belgian/Walloon connections, conducted research on a wide range of topics including evolutionary biology, palaeobiology and systematics (taxonomy, nomenclature, phylogeny), palaeoecology, biostratigraphy, and palaeobiogeography. His main focus was the earliest vertebrates and, in particular, the Palaeozoic jawless Pteraspidomorphs that are known from the Ordovician to the Devonian, but he also contributed on Palaeozoic microvertebrates, and sharks to tetrapods. He was in the vanguard of cladistics applied to early vertebrates.
 
-Prof. Zhang’s death is a tremendous loss of the palaeontological, stratigraphical, and geological communities in China and worldwide.
+Alain made major contributions to the biodiversity, biostratigraphy and palaeobiogeography of Devonian pteraspidomorphs. These included heterostracans from western Europe and organising important conferences on western European palaeogeography. Alain’s body of work spans nearly 50 years. His last as his first is on heterostracans pteraspidomorphs and is in press. He brought new rigor to understanding of early vertebrates, especially their first appearance in the early/mid-Ordovician and the Early Devonian faunas from the Old Red Sandstone Continent (Spitsbergen, Arctic Russia and Canada, Europe, USA). He was one of the first to press that the vertebrates are a group fundamental to the biostratigraphy of the Middle Palaeozoic.
 
-Prof. Zhang will be alive in our heart for ever.
+Alain was both a field man in the classic style, with expeditions as far afield as Spitsbergen and Iran, an active member of geological societies in France and further afield; a teacher who fostered many students, taking field courses on the NE French coast and elsewhere. He was most generous to many visiting researchers and students.
+
+‘Papa’ Blieck (as he became known after this label was placed on his group table in a French restaurant during our final IGCP conference in 1995) worked on several international projects, especially on mid-Palaeozoic geological problems related to vertebrates and notably UNESCO:IUGS IGCP 328, when we were co-leaders from 1993 to 1996, which was voted one of the best projects by the Earth Sciences Division and Board of IGCP. During the latter, he hosted a major field excursion across northern France and Belgium, fittingly finishing in a Champagne cave near Reims. We edited together several conference proceedings, such as the Gross Symposium series and the Final report for IGCP 328. I was honoured to referee his final contribution (Blieck In press).
+
+Alain’s generosity, intellect, his sense of fun will be missed by colleagues and friends. Alain Blieck was supported throughout his career by his partner Dr Edmonde Razafimahaleo and their two sons and family.
 
 
-_Nanjing Institute of Geology and Palaeontology,_  
-_Chinese Academy of Sciences_ 
-
-October 21, 2013
-
----
+By Susan Turner
+Blieck, A. In press. Interpreting ecological niches of heterostracans (Vertebrata: Pteraspidomorphi). Geologica Belgica.
