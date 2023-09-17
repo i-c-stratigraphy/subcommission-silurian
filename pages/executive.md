@@ -3,7 +3,9 @@ layout: page
 title: "Executive"
 permalink: /executive
 ---
+
 # Subcommission elected for 2024-2028
+
 We are pleased to introduce new officers and titular members of the International Subcommission on Silurian Stratigraphy elected for 2024-2028.
 Elected officers
 
