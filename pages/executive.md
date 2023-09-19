@@ -82,7 +82,7 @@ Chinese Academy of Sciences, Nanjing, China
 
 
 
-# Executive (2020-2023)
+# Executive (2020-2024)
 
 **Petr Štorch, Chair**  
 Department of Palaeobiology and Stratigraphy  
