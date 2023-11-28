@@ -45,8 +45,8 @@ Both subcommissions – a transect along the Iskar gorge, Western Balkan, with a
 Minimum participants: 6; Maximum participants: 40
 
 <div align=center> <img src="images/conference Sofia.jpg" width="640" height="480"></div>
+<div align=center> Iskar gorge sections to be visited by excursion </div>
 
-Iskar gorge sections to be visited by excursion 
 
 Costs:
 The registration fee is currently under discussion with the university's accounting department. However, we expect:
