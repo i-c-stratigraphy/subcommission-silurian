@@ -27,9 +27,9 @@ Dates: 12–17 September 2024
 Venue: Joint meeting
 
 Indoor Program:
-September 12: Registration at the Earth and Man National Museum, (18:00–19:00), followed by welcome party and poster session (19:00–23:00) https://www.earthandman.org/language/en/front/
+September 12: Registration at the Earth and Man National Museum, (18:00–19:00), followed by welcome party and poster session (19:00–23:00) [https://www.earthandman.org/language/en/front/](https://www.earthandman.org/language/en/front/)  
 
-September 13–15: Scientific Sessions and separate ISSS and SDS business meetings at the University of Mining and Geology “St. Ivan Rilski” https://mgu.bg/en/
+September 13–15: Scientific Sessions and separate ISSS and SDS business meetings at the University of Mining and Geology “St. Ivan Rilski” [https://mgu.bg/en/](https://mgu.bg/en/)
 
 Field Excursions:
 September 16:
