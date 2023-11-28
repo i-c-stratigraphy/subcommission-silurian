@@ -44,7 +44,7 @@ September 17:
 Both subcommissions – a transect along the Iskar gorge, Western Balkan, with a focus not only on geology but also a local history and culture.
 Minimum participants: 6; Maximum participants: 40
 
-<img src="images/conference Sofia.jpg" width="800" height="600" align=center/>
+<img src="images/conference Sofia.jpg" width="640" height="480" align=center/>
 Iskar gorge sections to be visited by excursion 
 
 Costs:
