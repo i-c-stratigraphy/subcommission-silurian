@@ -12,12 +12,55 @@ table { font-size:smaller; }
 
 Meeting | Posting Date
 --- | ---
+[Joint ISSS-SDS Meeting, Sofia, Bulgaria, 12–17 September 2024](#5) | 
 [The 5th International Conodont Symposium (ICOS 5), Wuhan, China](#4) | 
 [19th International Symposium on Ostracoda, Lyon, France](#3) | 
 [4th International Congress on Stratigraphy STRATI 2023, Lille, France](#2) | 
 [New stratigraphic insights into the Silurian story, Lille, France (Subcommission Session SC13)](#1)  | 
 
+<a id="5"></a>
+## Joint ISSS-SDS Meeting, Sofia, Bulgaria:
+## “Time-line of Silurian and Devonian environmental and biotic changes”
 
+
+Dates: 12–17 September 2024
+Venue: Joint meeting
+
+Indoor Program:
+September 12: Registration at the Earth and Man National Museum, (18:00–19:00), followed by welcome party and poster session (19:00–23:00) https://www.earthandman.org/language/en/front/
+
+September 13–15: Scientific Sessions and separate ISSS and SDS business meetings at the University of Mining and Geology “St. Ivan Rilski” https://mgu.bg/en/
+
+Field Excursions:
+September 16:
+
+ISSS – Silurian in the regional Svogen Unit.
+Minimum participants: 6; Maximum participants: 20
+
+SDS – Devonian in the regional Moravian Unit.
+Minimum participants: 6; Maximum participants: 20
+
+September 17:
+Both subcommissions – a transect along the Iskar gorge, Western Balkan, with a focus not only on geology but also a local history and culture.
+Minimum participants: 6; Maximum participants: 40
+
+ 
+Iskar gorge sections to be visited by excursion 
+
+Costs:
+The registration fee is currently under discussion with the university's accounting department. However, we expect:
+Early bird registration (before May 01, 2024) – ca. 200 €
+Standard Registration (before June 15, 2024) – ca. 250 €
+The registration fee will include: admission to all sessions, abstract volume, conference program guide, attendance to welcome party, snack and coffee breaks according to the scheduled program, and social events (to be specified).
+
+Each of the field excursions will cost between 50–70 € (includes travel costs and a small packed lunch).
+
+Abstract and Article submission:
+Submission by June 15. The articles will be published in Geologica Balcanica: up to 6 pages in length and must be formatted according to the magazine's requirements
+https://www.geologica-balcanica.eu/
+
+
+---
 <a id="4"></a>
 ## The 5th International Conodont Symposium (ICOS 5), Wuhan, China
 
