@@ -40,9 +40,9 @@ Steve LoDuca | <sloduca@emich.edu>
 Jörg Maletz | <yorge@zedat.fu-berlin.de>
 Peep Männik | <peep.mannik@ttu.ee>
 Tiiu Märss | <Tiiu.Marss@ttu.ee>
+Neo E. B. Mc Adams | <neo.mcadams@ttu.edu>
 Christopher M. McCauley | <christopher.mccauley@mavs.uta.edu>
 Alexander (Sandy) D. McCracken | <sandy.mccracken@canada.ca>
-Neo E. B. Mc Adams | <neo.mcadams@ttu.edu>
 Anna McGairy | <am1220@leicester.ac.uk>
 Ana Mestre | <amestre@unsj.edu.ar>
 Giles Miller | <G.Miller@nhm.ac.uk>
