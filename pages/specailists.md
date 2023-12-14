@@ -42,7 +42,9 @@ Peep Männik | <peep.mannik@ttu.ee>
 Tiiu Märss | <Tiiu.Marss@ttu.ee>
 Christopher M. McCauley | <christopher.mccauley@mavs.uta.edu>
 Alexander (Sandy) D. McCracken | <sandy.mccracken@canada.ca>
+Neo E. B. Mc Adams | <neo.mcadams@ttu.edu>
 Anna McGairy | <am1220@leicester.ac.uk>
+Ana Mestre | <amestre@unsj.edu.ar>
 Giles Miller | <G.Miller@nhm.ac.uk>
 Stephan Oborny | <obornys@ku.edu>
 John S. Peel | <john.peel@pal.uu.se>
@@ -55,11 +57,14 @@ Sigitas Radzevičius | <sigitas.radzevicius@gf.vu.lt>
 Jiayu Rong | <jyrong@nigpas.ac.cn>
 Mike Rosenbaum | <m.rosenbaum@nhm.ac.uk>
 Valeri Sachanski | <valeri.sachanski@mgu.bg>
+Muhammad Aqqid bin Saparin | <muhammad_18003032@utp.edu.my>
 Thomas Servais | <thomas.servais@univ-lille.fr>
 David Siveter | <djs@leicester.ac.uk>
 Derek Siveter | <derek.siveter@oum.ox.ac.uk>
 Ladislav Slavík | <slavik@gli.cas.cz>
+Amalia Spina | <amalia.spina@unipg.it>
 Andrej Spiridonov | <andrej.spiridonov@gf.vu.lt>
+Zongyuan Sun | <sunzongyuan19@cdut.edu.cn>
 Alan Thomas | <a.t.thomas@bham.ac.uk>
 Petra Tonarová | <petra.tonarova@geology.cz>
 Susan Turner | <sue.turner@qm.qld.gov.au>
@@ -67,6 +72,8 @@ Jacques Verniers | <jacques.verniers@ugent.be>
 Olev Vinn | <olev.vinn@ut.ee>
 Guangxu Wang | <gxwang@nigpas.ac.cn>
 Xiaofeng Wang | <ycwangxiaofeng@163.com>
+Rongchang Wu | <rcwu@nigpas.ac.cn>
+Seth A. Young | <sayoung2@fsu.edu>
 Wenwei Yuan | <wwyuan@nigpas.ac.cn>
 Renbin Zhan | <rbzhan@nigpas.ac.cn>
 Yuandong Zhang | <ydzhang@nigpas.ac.cn>
