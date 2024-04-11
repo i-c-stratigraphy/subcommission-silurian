@@ -17,7 +17,9 @@ Università di Trieste, Italy
 Department of Geology
 Ghent University, Belgium
 
-**Secretary, not yet appointed**
+**Emilia Jarochowska, Secretary**
+Department of Earth Sciences
+Utrecht University, Netherlands
 
 ## Voting Members
 
@@ -28,10 +30,6 @@ Indiana University, USA
 **Huang Bing, Webperson**
 Nanjing Institute of Geology and Paleontology
 Chinese Academy of Sciences, Nanjing, China
-
-**Carlton E. Brett**
-Department of Geology
-University of Cincinnati, USA
 
 **Bradley D. Cramer**
 Department of Earth and Environmental Sciences
@@ -44,25 +42,9 @@ Universitá di Modena e Reggio Emilia, Italy
 **Juan Carlos Gutiérrez-Marco**
 Instituto de Geociencias (CSIC, UCM) & área de Paleontología GEODESPAL, Facultad CC. Geológicas UCM, Madrid, Spain
 
-**Emilia Jarochowska**
-Department of Earth Sciences
-Utrecht University, Netherlands
-
-**Anna Kozłowska**
-Institut of Paleobiology
-Polish Academy of Sciences, Warszawa, Poland
-
-**David K. Loydell**
-School of Earth and Environmental Sciences
-University of Portsmouth, United Kingdom
-
 **Tõnu Meidla**
 Institute of Ecology and Earth Sciences
 University of Tartu, Estonia
-
-**Michael J. Melchin**
-Department of Earth Sciences
-St. Francis Xavier University, Antigonish, Canada 
 
 **David C. Ray**
 School of Geography, Earth and Environmental Sciences
@@ -76,10 +58,7 @@ Sofia, Bulgaria
 Department of Paleobiology and Paleoecology
 Institute of Geology, Czech Academy of Sciences, Prague, Czech Republic
 
-**Wang Yi**
-Nanjing Institute of Geology and Paleontology
-Chinese Academy of Sciences, Nanjing, China
-
+Notice: Original voting body of the ISSS proposed for 2024-2028 was not approved by the ICS in March 2024. Five of its voting members who have served for 12 or more years are not eligible for an additional term of service. The nomination and election of additional titular members are currently in progress.
 
 
 # Executive (2020-2024)
