@@ -6,7 +6,7 @@ permalink: /executive
 
 # Subcommission elected for 2024-2028
 
-We are pleased to introduce new officers and titular members of the International Subcommission on Silurian Stratigraphy elected for 2024-2028.
+We are pleased to introduce new officers and titular members of the International Subcommission on Silurian Stratigraphy elected for 2024-2028, approved by the IUGS. 
 Elected officers
 
 **Carlo Corradini, Chair** 
@@ -27,7 +27,7 @@ Utrecht University, Netherlands
 Indiana Geological and Water Survey
 Indiana University, USA
 
-**Huang Bing, Webperson**
+**Huang Bing, Web officer**
 Nanjing Institute of Geology and Paleontology
 Chinese Academy of Sciences, Nanjing, China
 
@@ -58,7 +58,14 @@ Sofia, Bulgaria
 Department of Paleobiology and Paleoecology
 Institute of Geology, Czech Academy of Sciences, Prague, Czech Republic
 
-Notice: Original voting body of the ISSS proposed for 2024-2028 was not approved by the ICS in March 2024. Five of its voting members who have served for 12 or more years are not eligible for an additional term of service. The nomination and election of additional titular members are currently in progress.
+**Tonarová Petra** 
+Czech Geological Survey, Prague, Czech Republic
+
+**Zhang Yuandong**
+Nanjing Institute of Geology and Paleontology
+Chinese Academy of Sciences, Nanjing, China
+
+
 
 
 # Executive (2020-2024)
