@@ -6,9 +6,6 @@ permalink: /executive
 
 # Executive 2024-2028
 
-We are pleased to introduce new officers and titular members of the International Subcommission on Silurian Stratigraphy elected for 2024-2028, approved by the IUGS. 
-Elected officers
-
 **Carlo Corradini, Chair** 
 Dipartimento di Matematica e Geoscienze
 Università di Trieste, Italy 
@@ -24,6 +21,7 @@ Utrecht University, Netherlands
 **Huang Bing, Web officer**
 Nanjing Institute of Geology and Paleontology
 Chinese Academy of Sciences, Nanjing, China
+
 
 
 ## Voting Members
