@@ -5,7 +5,7 @@ permalink: /
 ---
 ## About ISSS
 
-<div align=center> <img src="images/STS2020.png" width="640" height="480"></div>
+<div align=center> <img src="images/Silurian.jpg" width="640" height="480"></div>
 
 The International Subcommission on Silurian Stratigraphy (ISSS) is a subcommission of the International Commission on Stratigraphy (ICS). The objectives of the subcommission are as follows:
 
