@@ -10,7 +10,7 @@ table { font-size:smaller; }
 </style>
 
 
-Meeting | Posting Date
+Meeting |
 --- | ---
 [ISSS Meeting 2025, Advances in Silurian chronostratigraphy and high-resolution correlation](#5)  | 
 [Joint ISSS-SDS Meeting, Sofia, Bulgaria, 12–17 September 2024](#4) | 
