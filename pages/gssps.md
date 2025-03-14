@@ -20,6 +20,6 @@ Members: Carlo Corradini (Chair), Maria Giovanna Corriga, Neo McAdams, Sigitas R
 
 ##  Sheinwoodian Working Group
 The goal is to find a new GSSP for the base of the Sheinwoodian Stage (= base of the Wenlock Series), to substitute the present inadequate GSSP at Hughley Brook, UK
-Members: Brad Cramer (Chair), …
+Members: Brad Cramer (Chair), Mike Melchin, David Loydell, Petr Štorch, Mikael Calner, Alyssa Bancroft, Thijs Vandenbroucke
 
 
