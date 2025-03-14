@@ -35,6 +35,9 @@ an area of great scenic, geological, and cultural value.
 The Silurian rocks of Seville have attracted geological studies since the late 19th century. However, it was not until the 1970s that the discoveries of the distinguished French geologist Michel Robardet initiated a series of investigations into their exceptional stratigraphy and fossil record, making the region a model area for Silurian studies.
 Seville and its Silurian strata welcome you in September 2025!
 
+* [ISSS Meeting 2025: FIRST CIRCULAR](files/Meeting_circular1.pdf)
+* [ISSS Meeting 2025: Pre-registration form](files/pre-registration_form.docx)
+
 #### Organizing committee
 Juan Carlos Gutiérrez-Marco, chairman (Spanish Research Council – IGEO)
 Sara Romero, secretary and scientific editor (Complutense University, Madrid)
