@@ -3,9 +3,8 @@ layout: page
 title: "Specialists"
 permalink: /specialists
 ---
-# Specialists
 
-## List of corresponding members
+# List of corresponding members
 
 
 Member | Email
