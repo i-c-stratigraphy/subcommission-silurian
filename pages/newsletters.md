@@ -25,3 +25,6 @@ permalink: /newsletters
 * [Silurian Times No.15 - 2007](files/SilurianTimes15.pdf)
 * [Silurian Times No.14 - 2006](files/SilurianTimes14.pdf)
 * [Silurian Times No.13 - 2005](files/SilurianTimes13.pdf)
+* [Silurian Times No.12 - 2004](files/SilurianTimes12.pdf)
+* [Silurian Times No.11 - 2003](files/SilurianTimes11.pdf)
+* [Silurian Times No.10 - 2002](files/SilurianTimes10.pdf)
