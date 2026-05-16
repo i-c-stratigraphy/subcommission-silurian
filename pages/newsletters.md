@@ -5,6 +5,7 @@ permalink: /newsletters
 ---
 # Newsletters
 
+* [Silurian Times No.33 - 2025](files/SilurianTimes33.pdf)
 * [Silurian Times No.32 - 2024](files/SilurianTimes32.pdf)
 * [Silurian Times No.31 - 2023](files/SilurianTimes31.pdf)
 * [Silurian Times No.30 - 2022](files/SilurianTimes30.pdf)
