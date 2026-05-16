@@ -35,7 +35,7 @@ We envision STRATI 2026 as a milestone in our collective progress. Over six days
 
 In the spirit of unity and discovery, we warmly invite researchers, educators, and policymakers worldwide. Let us seize this moment to forge partnerships that transcend borders and advance stratigraphy as a truly global endeavor. Join us in Suzhou to write the next chapter of our planet’s story—together.
 
-<div align=center> <img src="images/Strati2026.png" width="800" height="400"></div>
+<div align=center> <img src="images/Strati2026.png" width="800" height="360"></div>
 
 We are excited to invite the global stratigraphy community to STRATI 2026 – Exploring the Depths: Bridging Tradition and Innovation in Stratigraphy, taking place from June 28 to July 3, 2026, at Suzhou in Jiangsu Province, China.
 
@@ -43,15 +43,15 @@ We are excited to invite the global stratigraphy community to STRATI 2026 – Ex
 
 
 
-#### Organizing committee
-Juan Carlos Gutiérrez-Marco, chairman (Spanish Research Council – IGEO)
-Sara Romero, secretary and scientific editor (Complutense University, Madrid)
-Isabel Rábano, treasurer (Spanish Research Council – IGME)
-Fernando Ruiz Bermudo (Spanish Research Council – IGME)
-Saturnino Lorenzo Álvarez (University of Castilla-La Mancha, Spain)
-Vicente Castaño Torres (Sierra Morena de Sevilla UNESCO Global Geopark)
-Gonzalo Fernández de Castro Martínez (Sierra Morena de Sevilla UNESCO Global Geopark)
+#### GENERAL INFORMATION
 
+Website: https://strati2026.org/
+Contact:
+ykshi@nju.edu.cn for financial questions;
+qiewenkun@nigpas.ac.cn for field excursion questions;
+yghuang@cug.edu.cn for session and program questions;
+ariana.xu@nju.edu.cn for registration questions;
+strati2026@ddeworld.org for other general issues.
 
 
 ---
