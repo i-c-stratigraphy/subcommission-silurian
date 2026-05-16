@@ -12,7 +12,7 @@ table { font-size:smaller; }
 
 Meeting |
 --- | ---
-[ISSS Meeting 2025, Advances in Silurian chronostratigraphy and high-resolution correlation](#5)  | 
+[STRATI 2026, xploring the Depths: Bridging Tradition and Innovation in Stratigraphy](#5)  | 
 [ISSS Meeting 2025, Advances in Silurian chronostratigraphy and high-resolution correlation](#4)  | 
 [Joint ISSS-SDS Meeting, Sofia, Bulgaria, 12–17 September 2024](#3) | 
 [The 5th International Conodont Symposium (ICOS 5), Wuhan, China](#2) | 
@@ -35,7 +35,7 @@ We envision STRATI 2026 as a milestone in our collective progress. Over six days
 
 In the spirit of unity and discovery, we warmly invite researchers, educators, and policymakers worldwide. Let us seize this moment to forge partnerships that transcend borders and advance stratigraphy as a truly global endeavor. Join us in Suzhou to write the next chapter of our planet’s story—together.
 
-<div align=center> <img src="images/Strati2026.png" width="800" height="360"></div>
+<div align=center> <img src="images/Strati2026.png" width="720" height="360"></div>
 
 We are excited to invite the global stratigraphy community to STRATI 2026 – Exploring the Depths: Bridging Tradition and Innovation in Stratigraphy, taking place from June 28 to July 3, 2026, at Suzhou in Jiangsu Province, China.
 
