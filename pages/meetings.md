@@ -13,13 +13,49 @@ table { font-size:smaller; }
 Meeting |
 --- | ---
 [ISSS Meeting 2025, Advances in Silurian chronostratigraphy and high-resolution correlation](#5)  | 
-[Joint ISSS-SDS Meeting, Sofia, Bulgaria, 12–17 September 2024](#4) | 
-[The 5th International Conodont Symposium (ICOS 5), Wuhan, China](#3) | 
-[19th International Symposium on Ostracoda, Lyon, France](#2) | 
-[4th International Congress on Stratigraphy STRATI 2023, Lille, France](#1) | 
+[ISSS Meeting 2025, Advances in Silurian chronostratigraphy and high-resolution correlation](#4)  | 
+[Joint ISSS-SDS Meeting, Sofia, Bulgaria, 12–17 September 2024](#3) | 
+[The 5th International Conodont Symposium (ICOS 5), Wuhan, China](#2) | 
+[19th International Symposium on Ostracoda, Lyon, France](#1) | 
+
 
 
 <a id="5"></a>
+## STRATI 2026, Suzhou, China:
+## “Exploring the Depths: Bridging Tradition and Innovation in Stratigraphy”
+
+
+Dates: June 28 to July 3, 2026
+
+The STRATI congress is the official meeting of the International Commission on Stratigraphy held between meetings of the International Geological Congress. STRATI meetings serve as a cornerstone of international stratigraphic research, fostering dialogue and innovation across continents with a legacy rooted in Europe. As Earth science challenges and opportunities become increasingly interconnected, STRATI 2026 represents a pivotal opportunity to enhance global cooperation. Hosting this edition in Suzhou reflects the International Commission on Stratigraphy’s (ICS) dedication to promoting inclusive worldwide scientific exchange and addressing shared priorities in stratigraphic research.
+
+This congress comes at a critical time for the Earth sciences. The rising demand for data integration, harmonized chronostratigraphic frameworks, and collaborative solutions to planetary-scale challenges, including climate archives and resource sustainability and calls for renewed global synergy. STRATI 2026 will act as a catalyst for these efforts, not only strengthening the traditional research in stratigraphy and high-resolution geochronology, but also leveraging advancements in open-access digital platforms that empower scientists worldwide.
+
+We envision STRATI 2026 as a milestone in our collective progress. Over six days, participants will share knowledge through thematic sessions, workshops, and field excursions across iconic geological regions. We particularly encourage subcommissions, working groups, and early-career scientists to shape the program, ensuring that diverse perspectives inform the agenda. Together, we will explore how stratigraphy can bridge disciplinary divides, refine global standards and correlations, and illuminate Earth’s history with unprecedented clarity.
+
+In the spirit of unity and discovery, we warmly invite researchers, educators, and policymakers worldwide. Let us seize this moment to forge partnerships that transcend borders and advance stratigraphy as a truly global endeavor. Join us in Suzhou to write the next chapter of our planet’s story—together.
+
+<div align=center> <img src="images/Strati2026.png" width="600" height="400"></div>
+
+We are excited to invite the global stratigraphy community to STRATI 2026 – Exploring the Depths: Bridging Tradition and Innovation in Stratigraphy, taking place from June 28 to July 3, 2026, at Suzhou in Jiangsu Province, China.
+
+* [STRATI 2026: SECOND CIRCULAR](files/STRATIcircular2.pdf)
+
+
+
+#### Organizing committee
+Juan Carlos Gutiérrez-Marco, chairman (Spanish Research Council – IGEO)
+Sara Romero, secretary and scientific editor (Complutense University, Madrid)
+Isabel Rábano, treasurer (Spanish Research Council – IGME)
+Fernando Ruiz Bermudo (Spanish Research Council – IGME)
+Saturnino Lorenzo Álvarez (University of Castilla-La Mancha, Spain)
+Vicente Castaño Torres (Sierra Morena de Sevilla UNESCO Global Geopark)
+Gonzalo Fernández de Castro Martínez (Sierra Morena de Sevilla UNESCO Global Geopark)
+
+
+
+---
+<a id="4"></a>
 ## ISSS Meeting 2025, Seville, Spain:
 ## “Advances in Silurian chronostratigraphy and high-resolution correlation”
 
@@ -49,7 +85,7 @@ Vicente Castaño Torres (Sierra Morena de Sevilla UNESCO Global Geopark)
 Gonzalo Fernández de Castro Martínez (Sierra Morena de Sevilla UNESCO Global Geopark)
 
 ---
-<a id="4"></a>
+<a id="3"></a>
 ## Joint ISSS-SDS Meeting, Sofia, Bulgaria:
 ## “Time-line of Silurian and Devonian environmental and biotic changes”
 
@@ -61,7 +97,7 @@ Website: Information about the Earth and Man National Museum is available at htt
 Organizers: University of Mining and Geology “St. Ivan Rilski” and collaborating institutions.
 
 ---
-<a id="3"></a>
+<a id="2"></a>
 ## The 5th International Conodont Symposium (ICOS 5), Wuhan, China
 
 Dates: June 24th to 27th 2022.
@@ -75,7 +111,7 @@ Organisers: Professor Xulong Lai, Vice President of China University of Geoscien
 
 
 ---
-<a id="2"></a>
+<a id="1"></a>
 ## 19th International Symposium on Ostracoda, Lyon, France
 
 Dates: July 18th to 22nd 2022
@@ -89,17 +125,5 @@ Description: The French Ostracodologists’ Group and the International Research
 
 Organising Committee: Vincent Perrier, Marie-Béatrice Forel and Sylvie Crasquin
 
-
----
-<a id="1"></a>
-## 4th International Congress on Stratigraphy STRATI 2023, Lille, France
-
-Dates: July 11th to 13th 2023
-Venue: Lille, France. 
-
-The indoor sessions with keynote talks and regular lectures (partly scheduled online) will take place in the new Congress Centre of Lille University ‘Lilliad’ on the Campus of the Cité Scientifique (Science Campus) at Villeneuve d’Ascq (15 minutes by metro from Lille city centre). In addition, several pre- and post-conference excursions and one-day field trips are scheduled to take place before and after the indoor meeting.
-Website: https://strati2023.sciencesconf.org/
-Description: Following the 1st congress in Lisbon (Portugal) in 2013, and additional congresses organized in Graz (Austria) in 2015 and Milan (Italy) in 2019, the 4th International Congress on Stratigraphy STRATI 2023 will be held in Lille, France, 11th to13th July 2023.
-General scientific themes will be mostly organized as plenary sessions, but parallel sessions will also be scheduled, as well as poster sessions. The following scientific sessions have been proposed covering a wide range of stratigraphic topics.
 
 ---
