@@ -12,15 +12,52 @@ table { font-size:smaller; }
 
 Meeting |
 --- | ---
-[STRATI 2026, xploring the Depths: Bridging Tradition and Innovation in Stratigraphy](#5)  | 
-[ISSS Meeting 2025, Advances in Silurian chronostratigraphy and high-resolution correlation](#4)  | 
-[Joint ISSS-SDS Meeting, Sofia, Bulgaria, 12–17 September 2024](#3) | 
-[The 5th International Conodont Symposium (ICOS 5), Wuhan, China](#2) | 
-[19th International Symposium on Ostracoda, Lyon, France](#1) | 
+[ISSS Meeting 2027, The Silurian of Southwestern Gondwana: High-Latitude Geology and Life](#5)  | 
+[STRATI 2026, xploring the Depths: Bridging Tradition and Innovation in Stratigraphy](#4)  | 
+[ISSS Meeting 2025, Advances in Silurian chronostratigraphy and high-resolution correlation](#3)  | 
+[Joint ISSS-SDS Meeting, Sofia, Bulgaria, 12–17 September 2024](#2) | 
+[The 5th International Conodont Symposium (ICOS 5), Wuhan, China](#1) | 
 
 
-
+---
 <a id="5"></a>
+## ISSS Meeting 2027, San Juan, Argentina:
+## “The Silurian of Southwestern Gondwana: High-Latitude Geology and Life”
+
+
+Dates: 19th–23th July 2027
+
+The official 2027 Annual Meeting of the International Subcommission on Silurian Stratigraphy will take place in San Juan, Argentina, as agreed by the delegates at the annual meeting held in Seville, Spain, in September 2025. After over 20 years, the ISSS Meeting returns to South America, representing a significant milestone in the history of the ISSS and an excellent opportunity to strengthen international scientific cooperation in the field of geoscience. On behalf of the organizers, we are pleased to invite the scientific community to participate in this important event, which will combine academic sessions with the opportunity to explore the classic and well-exposed Silurian sequences of the Argentine Precordillera.
+
+<div align=center> <img src="images/Museum.png" width="600" height="400"></div>
+<div align=center> Paleontological Museum of San Juan. </div>
+
+#### Schedule and Deadlines
+Due to the need for advanced logistical planning, an immediate response to the questionnaire at the end of this circular is required.
+• October 31st, 2026: Response to the First Circular questionnaire (see below).
+• December 1th, 2026: Distribution of the Second Circular with definitive fees.
+• February 15th, 2027: Deadline for paying the early birds registration fee.
+• May 15st, 2027: Deadline for short papers and abstracts.
+• June 30th, 2027: Distribution of the Third Circular with the Final Programme.
+• July 18th, 2027: Arrival in San Juan.
+• July 19th–21th, 2027: Scientific sessions, official dinner.
+• July 22th -23th, 2027: Silurian Excursion to the classic Silurian localities from the Precordillera.
+• July 24th, 2027: Departures from San Juan.
+
+* [ISSS Meeting 2025: FIRST CIRCULAR](files/ISSS_2027_circular1.pdf)
+
+
+#### Organizing committee
+Chair: Dra. Ana Mestre (CONICET-UNSJ) - [amestre@unsj.edu.ar]
+Secretary: Dra. Josefina Carlorosi (CONICET-UNT- INSUGEO)
+Scientific Editors: Dra. Susana Heredia (CONICET-UNSJ) and Dra. Blanca Toro (CONICET-CICTERRA)
+Field trip: Dr. Juan Rustan (CONICET-CICTERRA), Dr. Fernando López (CONICETUNSJ), Dr. Juan Drovandi (CONICET-UNSJ).
+Members: Dra. Claudia Rubinstein (CONICET-IANIGLA, Argentina), Dra. Estefania
+Asurmendi (CONICET-UNRC), Dra. María José Gómez.
+
+---
+
+<a id="4"></a>
 ## STRATI 2026, Suzhou, China:
 ## “Exploring the Depths: Bridging Tradition and Innovation in Stratigraphy”
 
@@ -55,7 +92,7 @@ strati2026@ddeworld.org for other general issues.
 
 
 ---
-<a id="4"></a>
+<a id="3"></a>
 ## ISSS Meeting 2025, Seville, Spain:
 ## “Advances in Silurian chronostratigraphy and high-resolution correlation”
 
@@ -85,7 +122,7 @@ Vicente Castaño Torres (Sierra Morena de Sevilla UNESCO Global Geopark)
 Gonzalo Fernández de Castro Martínez (Sierra Morena de Sevilla UNESCO Global Geopark)
 
 ---
-<a id="3"></a>
+<a id="2"></a>
 ## Joint ISSS-SDS Meeting, Sofia, Bulgaria:
 ## “Time-line of Silurian and Devonian environmental and biotic changes”
 
@@ -97,7 +134,7 @@ Website: Information about the Earth and Man National Museum is available at htt
 Organizers: University of Mining and Geology “St. Ivan Rilski” and collaborating institutions.
 
 ---
-<a id="2"></a>
+<a id="1"></a>
 ## The 5th International Conodont Symposium (ICOS 5), Wuhan, China
 
 Dates: June 24th to 27th 2022.
@@ -110,20 +147,3 @@ Description: The 5th International Conodont Symposium (ICOS 5), was a hybrid mee
 Organisers: Professor Xulong Lai, Vice President of China University of Geosciences (Wuhan).
 
 
----
-<a id="1"></a>
-## 19th International Symposium on Ostracoda, Lyon, France
-
-Dates: July 18th to 22nd 2022
-Venue: Lyon, France
-
-Website: The 19th International Symposium on Ostracoda Abstract Book, Circulars and Field Trip Guides can be viewed at the following link: http://iso2022.univ-lyon1.fr/en
-Description: The French Ostracodologists’ Group and the International Research Group on Ostracoda (IRGO) held the 19th International Symposium on Ostracoda in Lyon at the University Claude Bernard Lyon 1 from July 18th to 22nd 2022. The symposium consisted of workshops, field excursions, an IRGO business meeting, and over 100 presentations (oral and poster), a few of which related to the Silurian:
-• Perrier, V., Perrichon, G., Nesme, F., Lorenzo, S. and Gutiérrez-Marco, J.C. 2022. Ecological diversification of early planktonic ostracods in the upper Silurian.
-• Rinkevičiūtė, S., Spiridonov, A. and Meidla, T. 2022. Ultra-high resolution ostracod data as a tool for a deeper understanding of the Mulde/ lundgreni event (lower Silurian).
-• Siveter, D., Perrier, V. and Williams, M. 2022. Silurian myodocopes display adaptations for a nektobenthic lifestyle: the paleobiological evidence.
-
-Organising Committee: Vincent Perrier, Marie-Béatrice Forel and Sylvie Crasquin
-
-
----
